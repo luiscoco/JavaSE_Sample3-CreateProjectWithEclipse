@@ -91,7 +91,8 @@ See the new Java project default main code
 19. Pushed message
 ![Pushed message](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/4ae1a5ec-cbf9-4fe2-9583-307bf8341e15)
 
-
+20. Refresh Github repo after pushing from Eclipse
+![Refresh Github repo after pushing from Eclipse](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/b65aa531-2baa-48dd-9d14-96a0d15c2b79)
 
 
 
