@@ -62,5 +62,38 @@ See the new Java project default main code
 ![Git Commit  the Java project changes](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/508b954a-8904-4a75-b910-6d03f50e0f60)
 
 10. Press add all files including not selected...
+![Press add all files including not selected](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/a90db96d-7e17-4870-906d-01a0ffc07d6c)
+
+11. Set the commit name
+![Set the commit name](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/4fbce5a7-52d1-4c63-91ec-50b73edd5a0f)
+
+12. Press the commit button
+![Press the commit button](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/c629ccdb-53aa-4503-b903-e440d02790b3)
+
+13. Push Branch 'main'
+![Push Branch 'main'](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/21acf3cf-6b7d-44fc-a29b-3883b41b38dd)
+
+14. Copy the Github repo name
+![Copy the Github repo name](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/c3b5ec9e-730f-4c47-9760-4ab07e805332)
+
+15. Set the remote Github repository name and access username and password
+![Set the remote Github repository name and access username and password](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/de64fe5b-65c8-4eb8-ad23-e1bd3b7562d2)
+
+16. Set remote branch name and confirgure upstream for push and pull
+![Set remote branch name and confirgure upstream for push and pull](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/e3022d3c-6e01-4dbe-a5ec-f471938bfe93)
+
+17. Push confirmation
+![Push confirmation](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/e71e9e12-6958-4b25-b008-4909e8c245d5)
+
+18. Set remote access login user name and password
+![Set remote access login user name and password](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/40e7e853-debb-43b0-b7bc-a71bde61191b)
+
+19. Pushed message
+![Pushed message](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/4ae1a5ec-cbf9-4fe2-9583-307bf8341e15)
+
+
+
+
+
 
 
