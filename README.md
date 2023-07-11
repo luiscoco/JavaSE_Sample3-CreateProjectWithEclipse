@@ -10,8 +10,18 @@ To push to Github a Java Eclipse project follow these steps:
 
 3. Create a Github access token. Go to this page: https://github.com/settings/tokens
    
-   Click on the link: "Generate a personal access token" and follow these instructions: http://cse132.engineering.wustl.edu/files/githubEclipseAuth/githubEclipseAuth.html
+Click on the link: "Generate a personal access token" and follow these instructions: http://cse132.engineering.wustl.edu/files/githubEclipseAuth/githubEclipseAuth.html
 ![Create an access token for Github](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/d5052b17-9331-43c6-942a-0c52e03e1600)
+
+Set access token name and select scope
+![Set access token name and select scope](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/fbb70534-dfbc-448b-8c97-c58e9e0315dc)
+
+Set access token scope
+![Set access token scope](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/89c41013-ee36-4948-a6b7-bffa1a4b4e04)
+
+Copy the access token
+![Copy the access token](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/ce1cc046-438f-48df-ab32-14cef8ec15b9)
+
 
 4. Create in Eclipse a new Java project.
 
