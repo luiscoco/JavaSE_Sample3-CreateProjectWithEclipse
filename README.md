@@ -47,5 +47,20 @@ See the new Java project default main code
 ![New Java project default main code](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/4cd684d5-11a0-4340-908a-301ea4a460c3)
 
 5. Now let´s create the Git repo in the Eclipse Java project.
+![Create in Eclipse the Git repo](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/b1e2c52b-9253-4e0c-bde9-bebb0ca41ebf)
+
+6. Configure Git repository
+![Configure Git repository](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/33aad70d-bb98-4df7-8505-bfd7fe316af6)
+
+7. Set the repository name and the default branch name
+![Set the repository name and the default branch name](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/e934a879-773a-4583-b2f8-478e743ce7b1)
+
+8. Finish to create the Git repo in Eclipse
+![Finish to create the Git repo in Eclipse](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/5a0d825a-13cb-40a7-9df3-28daf0ea9554)
+
+9. Git Commit... the Java project changes
+![Git Commit  the Java project changes](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/508b954a-8904-4a75-b910-6d03f50e0f60)
+
+10. Press add all files including not selected...
 
 
