@@ -26,3 +26,10 @@ See the new Java project folder structure
 Create new class in Java project
 ![Create new class in Java project](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/de072814-50db-4c16-8342-9bb15a3137ba)
 
+Set class name and set as public static void main
+![Set class name and set as public static void main](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/abbfb50d-66c0-49a0-aa14-4b13da0bd755)
+
+See the new Java project default main code
+![New Java project default main code](https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse/assets/32194879/4cd684d5-11a0-4340-908a-301ea4a460c3)
+
+
